@@ -19,7 +19,7 @@ public class StudentScoreManager {
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();
 
-        students.add(new Student("Harshi", 88));
+        students.add(new Student("Harshi", 98));
         students.add(new Student("Riya", 94));
         students.add(new Student("Aman", 76));
         students.add(new Student("Nikhil", 89));
