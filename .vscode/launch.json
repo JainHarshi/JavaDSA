@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Print1ToN",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.Print1ToN",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "numberDivisibleByGivenNo",
+            "request": "launch",
+            "mainClass": "Coaching.April07.numberDivisibleByGivenNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "smallestNo",
+            "request": "launch",
+            "mainClass": "Coaching.April07.smallestNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "three_no",
+            "request": "launch",
+            "mainClass": "Coaching.April07.three_no",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "fourNoSmallest",
+            "request": "launch",
+            "mainClass": "Coaching.April08TirnaryOperator.fourNoSmallest",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "noIsPosNegZero",
+            "request": "launch",
+            "mainClass": "Coaching.April08TirnaryOperator.noIsPosNegZero",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "twoNoDiv",
+            "request": "launch",
+            "mainClass": "Coaching.April08TirnaryOperator.twoNoDiv",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "DayNo",
+            "request": "launch",
+            "mainClass": "Coaching.April14ControlFlowStatement.DayNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "Coaching.April14ControlFlowStatement.Grade",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "MinimumOfThreeNo",
+            "request": "launch",
+            "mainClass": "Coaching.April14ControlFlowStatement.MinimumOfThreeNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "RangeOfNo",
+            "request": "launch",
+            "mainClass": "Coaching.April14ControlFlowStatement.RangeOfNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "SmallestOfTwoNumber",
+            "request": "launch",
+            "mainClass": "Coaching.April14ControlFlowStatement.SmallestOfTwoNumber",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "BookFine",
+            "request": "launch",
+            "mainClass": "Coaching.April18.BookFine",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBill",
+            "request": "launch",
+            "mainClass": "Coaching.April18.ElectricityBill",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "M105",
+            "request": "launch",
+            "mainClass": "Coaching.till04_Java.M105",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "StudentScoreManager",
+            "request": "launch",
+            "mainClass": "OOPs.StudentScoreManager",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.ForLoop",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.IfElse",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "PatternNxN",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.PatternNxN",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.RightTriangle",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangleInNo",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.RightTriangleInNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "WeekDayEnanchedSwitch",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.WeekDayEnanchedSwitch",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "WeekDayTraditionalSwitch",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.WeekDayTraditionalSwitch",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec1.While",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q13",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q13",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q14",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q14",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q15",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q15",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q16",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q16",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q2",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q3",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q4",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec2Pattern.Q6",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.CheckPalindrome",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CountDigit",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.CountDigit",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "GcdOrHCFBrute",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.GcdOrHCFBrute",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ReverseDigit",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.ReverseDigit",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "PrintNTimes",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.PrintNTimes",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "PrintNameNTimes",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.PrintNameNTimes",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Learning_f285f4af"
+        }
+    ]
+}
