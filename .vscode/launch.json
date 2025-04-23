@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.Factorial",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SumOfN",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step1.Lec5.SumOfN",
