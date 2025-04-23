@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckVowel",
+            "request": "launch",
+            "mainClass": "Coaching.April23.CheckVowel",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Bonus",
             "request": "launch",
             "mainClass": "Coaching.April23.Bonus",
