@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bonus",
+            "request": "launch",
+            "mainClass": "Coaching.April23.Bonus",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ArmsStrong",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.ArmsStrong",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Print1ToN",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step1.Lec5.Print1ToN",
