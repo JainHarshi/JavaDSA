@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfN",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.SumOfN",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "PrintNTo1",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec5.PrintNTo1",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CheckPrime",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.CheckPrime",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllDivisor",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step1.Lec4.PrintAllDivisor",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "AbsoluteNo",
             "request": "launch",
             "mainClass": "Coaching.April23.AbsoluteNo",
