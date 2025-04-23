@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NoAlphaSpecialChar",
+            "request": "launch",
+            "mainClass": "Coaching.April23.NoAlphaSpecialChar",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ProfitOrLoss",
+            "request": "launch",
+            "mainClass": "Coaching.April23.ProfitOrLoss",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CheckVowel",
             "request": "launch",
             "mainClass": "Coaching.April23.CheckVowel",
