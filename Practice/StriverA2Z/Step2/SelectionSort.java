@@ -13,18 +13,21 @@ public class SelectionSort {
             System.out.println("Enter array value at " + i+1 + " position");
             arr[i] = sc.nextInt();
         }
-        int min = Integer.MAX_VALUE;
-        int rep = -1;
+        int rep = -1; 
         for(int i =0 ; i<n ; i++){
-            for(int j =i ; j < n-1 ; j++){
-                if(arr[j] <arr[j+1]){
+            boolean flag = false;
+            int min = arr[i];
+            for(int j =i+1 ; j < n ; j++){
+                if(min > arr[j]){
                     min = arr[j];
                     rep =j;
+                    flag = true;
                 }
             }
+            if(flag == true){
             int temp = arr[i];
             arr[i] = min;
-            arr[rep] = temp;
+            arr[rep] = temp;}
 
         }
         System.out.println(Arrays.toString(arr));

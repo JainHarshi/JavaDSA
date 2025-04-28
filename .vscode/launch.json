@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptimiseSelectionSort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step2.OptimiseSelectionSort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step2.SelectionSort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "WhileEvenOddDifferent",
             "request": "launch",
             "mainClass": "Coaching.April28.WhileEvenOddDifferent",
