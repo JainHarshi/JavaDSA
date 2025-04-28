@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptimizeBubbleSort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step2.OptimizeBubbleSort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step2.BubbleSort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "OptimiseSelectionSort",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step2.OptimiseSelectionSort",

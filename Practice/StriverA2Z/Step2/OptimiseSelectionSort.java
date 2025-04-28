@@ -10,13 +10,14 @@ public class OptimiseSelectionSort {
         int n = sc.nextInt();
         int arr[] = new int[n];
         for(int i =0 ; i<n ; i++){
-            System.out.println("Enter array value at " + i+1 + " position");
+            // System.out.println("Enter array value at " + i+1 + " position");
+            System.out.println("Enter array value at " + (i+1) + " position");
             arr[i] = sc.nextInt();
         }
-        int mini = -1; 
+        int mini; 
         for(int i =0 ; i<n ; i++){
             // boolean flag = false; optimise by removal of no use of repetative swaps by extra flag variable
-             mini = arr[i];
+             mini = i;
             for(int j =i+1 ; j < n ; j++){
                 if(arr[mini] > arr[j]){
                     mini = j;
@@ -27,7 +28,7 @@ public class OptimiseSelectionSort {
             // if(flag == true){  optimise by removal of no use of repetative swaps by extra flag variable
             if(mini != i){
             int temp = arr[i];
-            arr[i] = mini;
+            arr[i] = arr[mini];
             arr[mini] = temp;}
 
         }
