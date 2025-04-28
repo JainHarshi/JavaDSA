@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileEvenOddDifferent",
+            "request": "launch",
+            "mainClass": "Coaching.April28.WhileEvenOddDifferent",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "WhileOddNo",
+            "request": "launch",
+            "mainClass": "Coaching.April28.WhileOddNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "WhileNoReverse",
+            "request": "launch",
+            "mainClass": "Coaching.April28.WhileNoReverse",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "FreqOfArrayEle",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step1.Lec5.FreqOfArrayEle",
