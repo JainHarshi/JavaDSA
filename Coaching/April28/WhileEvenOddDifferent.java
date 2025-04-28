@@ -8,11 +8,13 @@ public class WhileEvenOddDifferent {
         int n = sc.nextInt();
         int i =1;
         while(i <= n ){
-            if(i%2 != 0) System.out.println("Odd no - " +i++);
+            if(i%2 != 0) {System.out.println("Odd no - " +i);
+        }i++;
         }
         i =1;
         while(i <= n ){
-            if(i%2 == 0) System.out.println("Even no - " +i++);
+            if(i%2 == 0) {System.out.println("Even no - " +i++);}i++;
         }
+        
     }
 }
