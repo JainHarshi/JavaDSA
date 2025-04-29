@@ -1,7 +1,6 @@
 package Practice.StriverA2Z.Step2;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class OptimizeBubbleSort {
     public static void main(String[] args) {
@@ -22,10 +21,13 @@ public class OptimizeBubbleSort {
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
                     swap = true;
+
+
                 }
             }
             if(swap == false) break;
         }
         System.out.println(Arrays.toString(arr));
+        
     }
 }
