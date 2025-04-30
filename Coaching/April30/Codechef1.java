@@ -11,5 +11,7 @@ public class Codechef1 {
             System.out.println(s.charAt(6));
         }
     }
+
+    // Q- https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN
     
 

@@ -11,3 +11,4 @@ public class Codechef2 {
 		System.out.println(7-(n+p));
 	}
 }
+// Q- https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CLEARDAY
