@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeChef11",
+            "request": "launch",
+            "mainClass": "Coaching.April30.CodeChef11",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CodeChef10",
+            "request": "launch",
+            "mainClass": "Coaching.April30.CodeChef10",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CodeChef5",
             "request": "launch",
             "mainClass": "Coaching.April30.CodeChef5",
