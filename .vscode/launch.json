@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Codechef3",
+            "request": "launch",
+            "mainClass": "Coaching.April30.Codechef3",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Codechef1",
+            "request": "launch",
+            "mainClass": "Coaching.April30.Codechef1",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "OptimizeBubbleSort",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step2.OptimizeBubbleSort",
