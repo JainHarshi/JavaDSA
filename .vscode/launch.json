@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWholeNo",
+            "request": "launch",
+            "mainClass": "Coaching.May1.ReverseWholeNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddEvenDigits",
+            "request": "launch",
+            "mainClass": "Coaching.May1.SumOfOddEvenDigits",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "Coaching.May1.CountDigits",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CodeChef11",
             "request": "launch",
             "mainClass": "Coaching.April30.CodeChef11",
