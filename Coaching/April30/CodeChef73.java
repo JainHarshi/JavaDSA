@@ -16,4 +16,4 @@ public class CodeChef73 {
 	       // else if(n3>=n1 && n2>= n3)System.out.println(n3);
 	}  
 }}
-// Q- https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACH_HOME
+// Q- https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACH_HOMEZ
