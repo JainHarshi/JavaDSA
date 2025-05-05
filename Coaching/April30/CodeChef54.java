@@ -1,3 +1,5 @@
+package Coaching.April30;
+
 import java.util.Scanner;
 
 public class CodeChef54 {

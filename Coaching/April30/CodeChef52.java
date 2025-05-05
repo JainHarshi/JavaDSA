@@ -1,3 +1,7 @@
+package Coaching.April30;
+
+import java.util.Scanner;
+
 public class CodeChef52 {
     public static void main (String[] args) throws java.lang.Exception
 	{
@@ -10,6 +14,6 @@ public class CodeChef52 {
 	       // else System.out.println("No");
 	        
 	    }
-}
+}}
 
 // Q- https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERREQ
