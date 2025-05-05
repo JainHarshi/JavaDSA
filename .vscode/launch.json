@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "Coaching.May1.SumOfDigit",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNo",
+            "request": "launch",
+            "mainClass": "Coaching.May1.ReverseNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CodeChef57",
             "request": "launch",
             "mainClass": "Coaching.April30.CodeChef57",
