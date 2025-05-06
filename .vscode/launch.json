@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestNo",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.LargestNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SumOfDigit",
             "request": "launch",
             "mainClass": "Coaching.May1.SumOfDigit",
