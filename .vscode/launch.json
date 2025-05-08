@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeftRotateArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.LeftRotateArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "LargestNo",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.LargestNo",
