@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Coaching.May14.Power",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CodeChef105",
             "request": "launch",
             "mainClass": "Coaching.April30.CodeChef105",
