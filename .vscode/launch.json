@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strong",
+            "request": "launch",
+            "mainClass": "Coaching.May14.Strong",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Coaching.May14.factorial",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Power",
             "request": "launch",
             "mainClass": "Coaching.May14.Power",
