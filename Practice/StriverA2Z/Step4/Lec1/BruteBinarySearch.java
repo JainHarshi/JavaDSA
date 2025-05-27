@@ -10,4 +10,6 @@ public class BruteBinarySearch {
         }
         return -1;
     }
+
+    // https://leetcode.com/problems/binary-search/
 }
