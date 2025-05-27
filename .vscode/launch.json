@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "BruteBinarySearch",
+            "request": "launch",
+            "mainClass": "BruteBinarySearch",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Strong",
             "request": "launch",
             "mainClass": "Coaching.May14.Strong",
