@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSortRecursion",
+            "request": "launch",
+            "mainClass": "Practice.KunalRecursion.SelectionSortRecursion",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortRecursion",
+            "request": "launch",
+            "mainClass": "Practice.KunalRecursion.BubbleSortRecursion",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "PrintSeedhaTriangleRecursion",
             "request": "launch",
             "mainClass": "Practice.KunalRecursion.PrintSeedhaTriangleRecursion",
