@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintSeedhaTriangleRecursion",
+            "request": "launch",
+            "mainClass": "Practice.KunalRecursion.PrintSeedhaTriangleRecursion",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "PrintUltaTriangleRecur",
             "request": "launch",
             "mainClass": "Practice.KunalRecursion.PrintUltaTriangleRecur",
