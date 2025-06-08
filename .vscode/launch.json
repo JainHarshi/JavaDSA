@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptimiseSelectionSortRecursion",
+            "request": "launch",
+            "mainClass": "Practice.KunalRecursion.OptimiseSelectionSortRecursion",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SelectionSortRecursion",
             "request": "launch",
             "mainClass": "Practice.KunalRecursion.SelectionSortRecursion",
