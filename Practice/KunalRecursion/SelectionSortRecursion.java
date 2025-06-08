@@ -9,14 +9,14 @@ public class SelectionSortRecursion {
         System.out.println(Arrays.toString(arr));
     }
     public static void selection(int[] arr, int r , int c){
-        int temp[] = new int[arr.length-1];
+        int temp[] = new int[arr.length];
         int max= Integer.MIN_VALUE;
+        if(r== 0) return;
 
 
         if(r>c){
             if(arr[c] > max){
                 max = arr[c];
-                
                 
             }
             selection(arr, r, c+1);
@@ -27,6 +27,8 @@ public class SelectionSortRecursion {
               max= Integer.MIN_VALUE;
               selection(arr, r-1, c);  
             }
+            System.out.println("from function temp " +Arrays.toString(temp));
+            System.out.println("from function Array " +Arrays.toString(arr));
             int p =0;
             for(int n1 : temp){
                 arr[p++] = n1;
