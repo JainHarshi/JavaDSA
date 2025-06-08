@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintUltaTriangleRecur",
+            "request": "launch",
+            "mainClass": "Practice.KunalRecursion.PrintUltaTriangleRecur",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "InsertionSort",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step2.InsertionSort",
