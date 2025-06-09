@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HarshadNo",
+            "request": "launch",
+            "mainClass": "Coaching.June9.HarshadNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "OptimiseSelectionSortRecursion",
             "request": "launch",
             "mainClass": "Practice.KunalRecursion.OptimiseSelectionSortRecursion",
