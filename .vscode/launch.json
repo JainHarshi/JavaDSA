@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StrongNo",
+            "request": "launch",
+            "mainClass": "Coaching.June9.StrongNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "AutomorphicNo",
+            "request": "launch",
+            "mainClass": "Coaching.June9.AutomorphicNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Pallindrome1to1000",
+            "request": "launch",
+            "mainClass": "Coaching.June9.Pallindrome1to1000",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Pallindrome",
             "request": "launch",
             "mainClass": "Coaching.June9.Pallindrome",
