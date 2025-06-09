@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step2.Lec2.MergeSort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "CountNoOfAutomorphic1to1000",
             "request": "launch",
             "mainClass": "Coaching.June9.CountNoOfAutomorphic1to1000",
