@@ -15,7 +15,7 @@ public class CountNoOfAutomorphic1to1000 {
         }
         int modNo = (int)Math.pow(10,count);
         int reqAns = pow%modNo;
-        System.out.println(reqAns == temp ? count1 + " Automorphic No" : 999-count1 + " Non Automorphic");
+        System.out.println(reqAns == temp ? count1++ + " Automorphic No" : 999-count1 + " Non Automorphic");
 
     }
 }
