@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountNoOfAutomorphic1to1000",
+            "request": "launch",
+            "mainClass": "Coaching.June9.CountNoOfAutomorphic1to1000",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "Automorphic1to1000",
+            "request": "launch",
+            "mainClass": "Coaching.June9.Automorphic1to1000",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "DisariumNo",
             "request": "launch",
             "mainClass": "Coaching.June9.DisariumNo",
