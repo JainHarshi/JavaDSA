@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pallindrome",
+            "request": "launch",
+            "mainClass": "Coaching.June9.Pallindrome",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "HarshadNo",
             "request": "launch",
             "mainClass": "Coaching.June9.HarshadNo",
