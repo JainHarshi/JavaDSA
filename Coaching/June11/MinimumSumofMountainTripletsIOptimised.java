@@ -2,10 +2,11 @@ package Coaching.June11;
 
 public class MinimumSumofMountainTripletsIOptimised {
     public static void main(String[] args) {
-        
+        int[] nums = new int[] {8,6,1,5,3};
+        System.out.println(minimumSum(nums));
     }
-    class Solution {
-    public int minimumSum(int[] nums) {
+
+    public static int minimumSum(int[] nums) {
         int[] pre = new int[nums.length];
         int[] post = new int[nums.length];
         int n = nums.length-1;
@@ -38,4 +39,4 @@ public class MinimumSumofMountainTripletsIOptimised {
         return sum== Integer.MAX_VALUE ? -1 :sum;
     }
 }
-}
+
