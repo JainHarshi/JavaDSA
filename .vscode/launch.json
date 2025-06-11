@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "Coaching.June11.ThreeSum",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "MinimumSumofMountainTripletsIOptimised",
             "request": "launch",
             "mainClass": "Coaching.June11.MinimumSumofMountainTripletsIOptimised",
