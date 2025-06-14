@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpyNo",
+            "request": "launch",
+            "mainClass": "Coaching.June13.SpyNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "ThreeSum",
             "request": "launch",
             "mainClass": "Coaching.June11.ThreeSum",
