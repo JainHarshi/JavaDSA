@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BruteRemoveDuplicateFromArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.BruteRemoveDuplicateFromArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.RemoveDuplicateFromArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "CheckArrayIsSorted",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.CheckArrayIsSorted",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SecondLargestEle",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.SecondLargestEle",
