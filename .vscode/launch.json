@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestEleArray",
+            "request": "launch",
+            "mainClass": "Coaching.June16.LargestEleArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SpyNo",
             "request": "launch",
             "mainClass": "Coaching.June13.SpyNo",
