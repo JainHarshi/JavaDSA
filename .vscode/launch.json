@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SecondLargestEle",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.SecondLargestEle",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "LargestNoInArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.LargestNoInArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "LargestEleArray",
             "request": "launch",
             "mainClass": "Coaching.June16.LargestEleArray",
