@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySort",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.ArraySort",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.RotateArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "BruteRemoveDuplicateFromArray",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.BruteRemoveDuplicateFromArray",
