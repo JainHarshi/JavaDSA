@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.LinearSearch",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "ArraySort",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.ArraySort",
