@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UnionOfTwoArray",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.UnionOfTwoArray",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.LinearSearch",
