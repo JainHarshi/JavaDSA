@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.SingleNumber",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "UnionOfSortedArray",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.UnionOfSortedArray",
