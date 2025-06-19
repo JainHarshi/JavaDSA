@@ -19,7 +19,17 @@ public class UnionOfSortedArray {
                 ans[m++] = nums2[j];
                 j++;
             }
+            
         }
+        while(i<nums1.length){
+            ans[m++] = nums1[i];
+                i++;
+        }
+        while(j<nums2.length ){
+            ans[m++] = nums2[j];
+                j++;
+        }
+
         System.out.println(Arrays.toString(ans));
 
     }
