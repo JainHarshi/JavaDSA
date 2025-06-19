@@ -10,7 +10,7 @@ public class UnionOfTwoArray {
         int n2 = arr2.length;
         int m =0;
         int n =0;
-        int[] ans = new int[]{n1+n2};
+        int[] ans = new int[n1+n2];
         while(n1>0){
             ans[n++] = arr[m++];
             n1--;
