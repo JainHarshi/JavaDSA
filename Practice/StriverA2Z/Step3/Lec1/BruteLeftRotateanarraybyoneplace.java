@@ -1,9 +1,12 @@
 package Practice.StriverA2Z.Step3.Lec1;
 
+import java.util.Arrays;
+
 public class BruteLeftRotateanarraybyoneplace {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,6,7};
-        System.out.print(rotate(arr, 3));
+        rotate(arr, 3);
+        System.out.println(Arrays.toString(arr));
     }
     
     public static void rotate(int[] arr, int k) {
