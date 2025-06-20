@@ -1,9 +1,12 @@
 package Practice.StriverA2Z.Step3.Lec1;
 
+import java.util.Arrays;
+
 public class OptimizeMoveZero {
     public static void main(String[] args) {
         int[] arr = new int[]{1,2,3,5,0,1,2,0,5,0,7,0,0,9};
-        System.out.println(moveZeroes(arr));
+        moveZeroes(arr);
+        System.out.println(Arrays.toString(arr));
     }
     public static void moveZeroes(int[] arr) {
        int i =0;
