@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MoveZero",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec1.MoveZero",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SortArrayBetter",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec1.SortArrayBetter",
