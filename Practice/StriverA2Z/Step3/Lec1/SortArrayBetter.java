@@ -3,7 +3,7 @@ package Practice.StriverA2Z.Step3.Lec1;
 public class SortArrayBetter {
     public static void main(String[] args) {
         int nums[] = {2,0,2,1,1,0};
-       sortColors(nums); 
+        sortColors(nums); 
     }
     public static void sortColors(int[] nums) {
         int cnt0 =0;
