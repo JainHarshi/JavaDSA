@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpyNoRecurssion",
+            "request": "launch",
+            "mainClass": "Coaching.June23.SpyNoRecurssion",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "IsPallindrome",
             "request": "launch",
             "mainClass": "IsPallindrome",
