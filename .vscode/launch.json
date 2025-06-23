@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IsPallindrome",
+            "request": "launch",
+            "mainClass": "IsPallindrome",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SortColorBest",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec2.SortColorBest",
