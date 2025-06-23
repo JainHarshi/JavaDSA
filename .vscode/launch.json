@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HarshadNo",
+            "request": "launch",
+            "mainClass": "Coaching.June23.HarshadNo",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "SpyNoRecurssion",
             "request": "launch",
             "mainClass": "Coaching.June23.SpyNoRecurssion",
