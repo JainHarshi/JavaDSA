@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSumSubArrayBrute",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec2.MaxSumSubArrayBrute",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "HarshadNo",
             "request": "launch",
             "mainClass": "Coaching.June23.HarshadNo",
