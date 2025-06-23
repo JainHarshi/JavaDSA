@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSumSubArrayBest",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec2.MaxSumSubArrayBest",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "MaxSumSubArrayBetter",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec2.MaxSumSubArrayBetter",
