@@ -3,17 +3,22 @@ package Coaching.June23;
 public class SpyNoRecurssion {
     public static void main(String[] args) {
         int n = 123;
-        SpyNo(n, 0, 0);
-        if()
+        
+        if(SpyNo(n, 0, 0)){
+            System.out.println(n +" Given No is SPY No");
+        }
+        else{
+            System.out.println(n + " Not a SPY NO");
+        }
         
     }
     public static boolean SpyNo(int n , int mul , int sum){
-        if(n == 0){
-            return mul == sum;
-        }
+       
         sum = sumOfDigit(n , 0); 
         mul = mulOfDigit(n , 1);
-        return SpyNo(n/10, mul , sum );
+        if(sum == mul) return true;
+        return false;
+        
     }
     public static int sumOfDigit(int n , int sum){
         if(n == 0){
