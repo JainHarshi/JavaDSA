@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stock",
+            "request": "launch",
+            "mainClass": "Coaching.June24.Stock",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "MaxSumSubArrayBest",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec2.MaxSumSubArrayBest",
