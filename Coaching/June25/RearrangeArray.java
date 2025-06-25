@@ -1,4 +1,5 @@
 package Coaching.June25;
+import java.util.*;
 
 public class RearrangeArray {
     public static int[] rearrangeArray(int[] nums) {
