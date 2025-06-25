@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StockProfit",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec2.StockProfit",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "RearrangeArray",
             "request": "launch",
             "mainClass": "Coaching.June25.RearrangeArray",
