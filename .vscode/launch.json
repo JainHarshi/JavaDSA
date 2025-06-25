@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StockProfit",
+            "request": "launch",
+            "mainClass": "Coaching.June25.StockProfit",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "Stock",
             "request": "launch",
             "mainClass": "Coaching.June24.Stock",
