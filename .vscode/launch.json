@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeaderEle",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec2.LeaderEle",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "RearrangeArray",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec2.RearrangeArray",
