@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BestLeaderEle",
+            "request": "launch",
+            "mainClass": "Practice.StriverA2Z.Step3.Lec2.BestLeaderEle",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "BruteLeaderEle",
             "request": "launch",
             "mainClass": "Practice.StriverA2Z.Step3.Lec2.BruteLeaderEle",
