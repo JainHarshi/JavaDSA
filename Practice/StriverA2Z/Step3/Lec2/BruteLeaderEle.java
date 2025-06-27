@@ -6,7 +6,7 @@ import java.util.Collections;
 public class BruteLeaderEle {
     public static void main(String[] args) {
         int[] arr =  {16, 17, 4, 3, 5, 2};
-        System.out.println(leaders(0, arr));
+        System.out.println(leaders( arr));
     }
     
 
