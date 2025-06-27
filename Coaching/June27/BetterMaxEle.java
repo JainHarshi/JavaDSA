@@ -7,9 +7,9 @@ public class BetterMaxEle {
     public static void max(int[] arr) {
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
         for(int ele : arr){
-            pq.add(ele);
+            pq.add(ele); // O(log n) per insert
         }
-        System.out.println(pq.peek());
+        System.out.println(pq.peek()); // return first most ele
     }
 
     public static void main(String[] args) {
