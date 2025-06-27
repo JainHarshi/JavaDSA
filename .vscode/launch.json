@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BetterMaxEle",
+            "request": "launch",
+            "mainClass": "Coaching.June27.BetterMaxEle",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "BruteMaxEle",
             "request": "launch",
             "mainClass": "Coaching.June27.BruteMaxEle",
