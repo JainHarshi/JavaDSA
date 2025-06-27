@@ -10,5 +10,6 @@ public class LargestNoInArray {
             }
         }
         System.out.println(arr);
+        System.out.println(max);
     }
 }
