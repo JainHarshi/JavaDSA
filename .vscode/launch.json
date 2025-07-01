@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PreorderRecursive",
+            "request": "launch",
+            "mainClass": "Coaching.July1.PreorderRecursive",
+            "projectName": "Learning_f285f4af"
+        },
+        {
+            "type": "java",
             "name": "BestMaxEle",
             "request": "launch",
             "mainClass": "Coaching.June27.BestMaxEle",
